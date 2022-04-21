@@ -1,0 +1,57 @@
+/* Seksyen 1 */
+.seksyen1{
+    background-color: #495057;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-RamenOfficial{
+    color: #080a07;
+}
+
+.tulisanPutih{
+    color: rgb(255, 255, 255);
+}
+
+/* Seksyen  2 */
+.seksyen2{
+    background-color: #E6BA95;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+.icon{
+    color: #354126;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 2%;
+}
+/* Seksyen 3 */
+.seksyen3{
+    background-color: #E4D1B9;
+    padding: 7% 15%;
+}
+
+/* Seksyen 5 */
+.seksyen5{
+    background-color: #5A6268;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+}
+
+/* Footer */
+.footer{
+    background-color: #E4D1B9;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: #E4D1B9;
+}
